@@ -1,0 +1,10 @@
+.cantidad {
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.cantidad:focus {
+    border-color: green;
+    background-color: #e0f7e0;
+}
